@@ -1,0 +1,70 @@
+LOCUS       AY170325                1276 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens interleukin 6 (IL6) gene, promoter and partial cds.
+ACCESSION   AY170325
+VERSION     AY170325.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1276)
+  AUTHORS   Jiang,L.-Y., Yan,X.-M., Xu,Y., Dong,H., Zhang,L.-P., Gao,J.-M. and
+            Hua,Y.-K.
+  TITLE     The variation of human interleukin-6 regulatory gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1276)
+  AUTHORS   Jiang,L.-Y., Yan,X.-M., Xu,Y., Dong,H., Zhang,L.-P., Gao,J.-M. and
+            Hua,Y.-K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2002) Department of Basic and Clinical Medicine
+            Research, The First People's Hospital of Yunnan Province, JinBi
+            Road, KunMing, Yunnan 650032, China
+FEATURES             Location/Qualifiers
+     source          1..1276
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+     gene            1..>1276
+                     /gene="IL6"
+     regulatory      1..1176
+                     /regulatory_class="promoter"
+                     /gene="IL6"
+     regulatory      1152..1155
+                     /regulatory_class="TATA_box"
+                     /gene="IL6"
+     mRNA            1177..>1259
+                     /gene="IL6"
+                     /product="interleukin 6"
+     CDS             1241..>1259
+                     /gene="IL6"
+                     /codon_start=1
+                     /product="interleukin 6"
+                     /protein_id="AAN75009.1"
+                     /translation="MNSFST"
+ORIGIN      
+        1 ggatcctcct gcaagagaca ccatcctgag gaagagggct tctgaaccag cttgacccaa
+       61 taagaaattc ttgggtgccg acgcggaagc agattcagag cctagagccg tgcctgcgtc
+      121 cgtagtttcc ttctagcttc ttttgatttc aaatcaagac ttacagggag agggagcgat
+      181 aaacacaaac tctgcaagat gccacaaggt cctcctttga catccccaac aaagaggtga
+      241 gtagtattct ccccctttct gccctgaacc aagtgggctt cagtaatttc agggctccag
+      301 gagacctggg gcccatgcag gtgccccagt gaaacagtgg tgaagagact cagtggcaat
+      361 ggggagagca ctggcagcac aaggcaaacc tctggcacag agagcaaagt cctcactggg
+      421 aggattccca aggggtcact tgggagaggg cagggcagca gccaacctcc tctaagtggg
+      481 ctgaagcagg tgaagaaagt ggcagaagcc acgcggtggc aaaaaggagt cacacactcc
+      541 acctggagac gccttgaagt aactgcacga aatttgaggg tggccaggca gttctacaac
+      601 agcccctcac agggagagcc agaacacaga agaactcaga tgactggtag tattaccttc
+      661 ttcataatcc caggcttggg gggctgcgat ggagtcagag gaaactcagt tcagaacatc
+      721 tttggttttt acaaatacaa attaactgga acgctaaatt ctagcctgtt aatctggtca
+      781 ctgaaaaaaa aaattttttt tttcaaaaaa catagcttta gcttattttt tttctctttg
+      841 taaaacttcg tgcatgactt cagctttact ctttgtcaag acatgccaaa gtgctgagtc
+      901 actaataaaa gaaaaaaaga aagtaaagga agagtggttc tgcttcttag cgctagcctc
+      961 aatgacgacc taagctgcac ttttccccct agttgtgtct tgcgatgcta aaggacgtca
+     1021 cattgcacaa tcttaataag gtttccaatc agccccaccc gctctggccc caccctcacc
+     1081 ctccaacaaa gatttatcaa atgtgggatt ttcccatgag tctcaatatt agagtctcaa
+     1141 cccccaataa atataggact ggagatgtct gaggctcatt ctgccctcga gcccaccggg
+     1201 aacgaaagag aagctctatc tcccctccag gagcccagct atgaactcct tctccacaag
+     1261 taagtgcagg aaatcc
+//
+
